@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 17:57+0100\n"
+"PO-Revision-Date: 2024-01-01 23:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: password_generator/constants.py:18
+msgid "Password Generator "
+msgstr "Generatore di password "
+
+#: password_generator/constants.py:22 password_generator/constants.py:24
+msgid "Password length:"
+msgstr "Lunghezza della password:"
+
+#: password_generator/constants.py:23
+msgid "Generated password:"
+msgstr "Password generata:"
+
+#: password_generator/constants.py:25
+msgid "Include uppercase"
+msgstr "Includi maiuscole"
+
+#: password_generator/constants.py:26
+msgid "Include digits"
+msgstr "Includi numeri"
+
+#: password_generator/constants.py:27
+msgid "Include special characters"
+msgstr "Includi caratteri speciali"
+
+#: password_generator/constants.py:28
+msgid "MSSQL password policy"
+msgstr "Politica password MSSQL"
+
+#: password_generator/constants.py:31
+msgid "About"
+msgstr "Informazioni"
+
+#: password_generator/constants.py:32
+msgid "File"
+msgstr "File"
+
+#: password_generator/constants.py:33
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: password_generator/constants.py:33
+msgid "Exit"
+msgstr "Esci"
+
+#: password_generator/constants.py:34
+msgid "Help"
+msgstr "Aiuto"
+
+#: password_generator/constants.py:37
+msgid "Generate"
+msgstr "Genera"
+
+#: password_generator/constants.py:40
+msgid ""
+"\n"
+"\n"
+"\n"
+"\n"
+"Developed by "
+msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
+"Realizzato da "
+
+#: password_generator/constants.py:41
+msgid "Password copied to clipboard!"
+msgstr "Password copiata negli appunti!"
