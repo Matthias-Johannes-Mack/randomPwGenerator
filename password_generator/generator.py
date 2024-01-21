@@ -1,7 +1,5 @@
-import logging
 import random
 import string
-
 from constants import DEFAULT_PASSWORD_LENGTH, EMPTY_STRING, MSSQL_SPECIAL_CHARS
 
 
