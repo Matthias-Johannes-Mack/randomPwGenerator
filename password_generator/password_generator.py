@@ -1,5 +1,5 @@
 import argparse
-from password_generator import PasswordGenerator
+from generator import PasswordGenerator
 
 def main():
     # Set up the argument parser for command-line options
